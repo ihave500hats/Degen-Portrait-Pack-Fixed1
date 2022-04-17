@@ -1,2 +1,2 @@
 # Degen-Portrait-Pack-Fixed1
-i h
+Just delete the README
